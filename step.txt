@@ -1,0 +1,16 @@
+-menentukan mutu kualitas telur
+-mengubah citra biner
+-mengidentifikasi kebersihan telur
+-menggunakan metode thresholding
+
+-langkah :
+1. masukan gambar
+2. Mengubah citra RGB ke grayscale
+3. Mengubah grayscale ke citra biner
+4. Hitung citra putih nya jika lebih dari threshold
+   maka dianggap kualitas telur kotor jelek.  kucel
+5. kurang dari threshold kualitas nya baik
+
+
+kesimpulan 
+kotor hitam > 1000
